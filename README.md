@@ -6,7 +6,7 @@ Ungrammaticity arises from the model's inability to capture subject-verb number 
 Sentences from Ofelia Zepeda's _A Papago Grammar_.
 
 # Sample outputs include:
-ñeok </s> "speaks" (sentence fragment)
+ñeok </s> "speaks" (sentence fragment)  
 hegai cehia 'o hegam 'u'uwĭ </s> "this girl aux these women" (ungrammatical)
 'idam cecia 'o ṣoañ </s> "these girls are crying" (correct)
 'i:da 'uwĭ </s> "this woman" (grammatical fragment)
