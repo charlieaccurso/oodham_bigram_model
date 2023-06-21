@@ -1,0 +1,30 @@
+<s> 'i:da 'o'odham 'o ñeok </s>
+<s> hegai 'uwĭ 'o cipkan </s>
+<s> ñeok 'o 'i:da 'o'odham </s>
+<s> cipkan 'o hegai 'uwĭ </s>
+<s> 'i:da 'o'odham 'o pi ñeok </s>
+<s> hegai uwĭ 'o pi 'o'odham </s>
+<s> pi 'o ñeok 'i:da 'o'odham </s>
+<s> pi 'o cipkan hegai 'uwĭ </s>
+<s> 'i:da 'ali 'o pi ṣoak </s>
+<s> pi 'o ṣoak 'i:da 'ali </s>
+<s> hegai cehia 'o pi cicwi </s>
+<s> pi 'o cicwi hegai cehia </s>
+<s> hegam 'o'odham 'o cicpkan </s>
+<s> cicpkan 'o hegam 'o'odham </s>
+<s> 'idam cecoj 'o ñeñok </s>
+<s> ñeñok 'o 'idam cecoj </s>
+<s> hegam 'u'uwĭ 'o pi cicpkan </s>
+<s> pi 'o cicpkan hegam 'u'uwĭ </s>
+<s> 'idam cecoj 'o pi ñeñok </s>
+<s> pi 'o ñeñok 'idam cecoj </s>
+<s> hegam 'a'al 'o pi ṣoañ </s>
+<s> pi 'o ṣoañ hegam 'a'al </s>
+<s> ñeñok 'o hegam 'o'odham </s>
+<s> 'i:da 'uwĭ 'o cipkan </s>
+<s> 'idam cecia 'o pi cicpkan </s>
+<s> pi 'o ṣoañ hegam 'a'al </s>
+<s> hegai 'ali 'o cicwi </s>
+<s> hegai 'o'odham 'o pi ñeok </s>
+<s> pi 'o ṣoak 'i:da 'ali </s>
+<s> cipkan 'o 'i:da 'uwĭ </s>
